@@ -1,0 +1,6 @@
+application:
+  name: Customer Portal
+
+database:
+  server: sql01.internal.local
+  connection_string: "Server=sql01.internal.local;Database=CRM;User Id=crm_app;Password=P@ssword123;"
